@@ -40,20 +40,17 @@ cd Aulas_Reserva_Quartos_SENAC
 Certifique‑se de ter Python instalado (versão 3.x).
 
 Execute a aplicação:
-
-bash
-Copiar código
 python app.py
 Siga as instruções no console para interagir com o sistema.
-
+---
 📁 Estrutura do Projeto
-graphql
-Copiar código
 Aulas_Reserva_Quartos_SENAC/
-├── app.py               # Arquivo principal do sistema de reservas
-├── conexao_db.py        # Script para conectar ao banco de dados
-├── reserva_quartos_db.sql # Estrutura e dados iniciais do banco
-├── README.md            # Este arquivo
+├── app.py                  # Arquivo principal do sistema de reservas
+├── conexao_db.py           # Script para conectar ao banco de dados
+├── reserva_quartos_db.sql  # Estrutura e dados iniciais do banco
+├── README.md               # Este arquivo
+
+---
 🏫 Contexto Acadêmico
 Material desenvolvido e aplicado em aulas presenciais do SENAC, com foco em reforçar o uso prático de Python e banco de dados em soluções reais.
 
