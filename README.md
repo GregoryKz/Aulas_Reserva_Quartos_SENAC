@@ -45,10 +45,10 @@ Siga as instruções no console para interagir com o sistema.
 ---
 📁 Estrutura do Projeto
 Aulas_Reserva_Quartos_SENAC/
--├── app.py                  # Arquivo principal do sistema de reservas
--├── conexao_db.py           # Script para conectar ao banco de dados
--├── reserva_quartos_db.sql  # Estrutura e dados iniciais do banco
--├── README.md               # Este arquivo
+- ├── app.py                  # Arquivo principal do sistema de reservas
+- ├── conexao_db.py           # Script para conectar ao banco de dados
+- ├── reserva_quartos_db.sql  # Estrutura e dados iniciais do banco
+- ├── README.md               # Este arquivo
 
 ---
 🏫 Contexto Acadêmico
